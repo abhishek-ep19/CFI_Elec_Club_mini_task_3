@@ -29,9 +29,14 @@ So here instead of using IMU sensors and motors combined we'll be using motor en
 <br />These motor encoders are also a good option as they can tell us how much the motor (or leg) has rotated 'mechanically' may be by us, by surfaces or by jerk etc. This would also be detected by IMU sensors. But as you know the wires and hardware required would be less here.
 <br /> We would be marking our hexapod with lines where the motors have 0 degree rotated in either direction and the orientation would be default as the initial condition.
 <br />Using reinforced learning, we can make the orientation better and better with the time.
+<br />The best smallest and cheapest motor which I could find online was [N20 12V 140RPM Micro Metal Gear Motor With Encoder](https://robu.in/product/n20-12v-140rpm-micro-metal-gear-motor-with-encoder/?gclid=CjwKCAjwte71BRBCEiwAU_V9h_m5qym33YjT6x3uZ8T9u38Bpe0aWku8FRcNEvrT1_TCTgnC0hfSCBoCfLoQAvD_BwE)
 &nbsp;
 
 This is not a part of problem but to make hexapod walk practically we can take the example of how the spider walks() in real life which could be helpful to make the hexapod walk fast: [https://www.youtube.com/watch?v=GtHzpX0FCFY](https://www.youtube.com/watch?v=GtHzpX0FCFY)
+<br />
+&nbsp;
+
+### 3. MicroMouse Maze - TechSoc Challenge
 
 
 
