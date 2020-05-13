@@ -3,7 +3,7 @@ Improvements in the projects
 ### Project 1. Ring with automatic sensor
 In this project a ring is built so as to light up only when worn in the finger, otherwise it has to remain off. The basic design of the ring includes two 1.5 V batteries connected with a push button when worn in the finger gets pressed and the led light gets switched on otherwise push button keeps the circuit open. This basic design involved a problem that it could not be worn into finger for a long time as the push button causes pain in the finger as it is pressed when worn in the finger. So, we have to design a circuit that includes use of proximity sensor or any other sensor and microcontroller to turn the led on when the sensor sense the data after a certain threshold distance.
 #### Ideation:
-<br />First Prototype:
+First Prototype:
 <br />Circuit open==> Led Off==> Push button(On when finger presses it)==> Circuit closed==> Battery(3V)(current flows)==> Led On
 <br />Suggest solution for the problem:
 <br />Led off==> Batter(3V)(to power the circuit)==> Sensor(receives signal)==> Microcontroller==> Sets Led pin High
@@ -17,7 +17,7 @@ We'll use capacitive touch LED sensor developed by Visual Communications Company
 ### Project 2. Control Systems for Reinforcement Learning - Hexapod
 In Reinforcement Learning, one important part of the pipeline is to detect the state of the system at all Instances, This Hexapod has 18 DOF, your task is to Integrate different Sensors to the Hexapod and recreate the exact orientation of the Bot in a Computer , How would you plan to do so.
 #### Ideation:
-<br />First Prototype:
+First Prototype:
 <br />Motor(moves)==> IMU sensors(accelerometer or gyrometer)==> Microcontroller==> Data received by computer==> Combining data(received from sensors as well as initial data & orientation)==> Building exact orientation
 <br />Suggested solution for the problem:
 <br />Motor(moves)==> Motor encoders(detects how much motor has rotated in both direction)==> Microcontroller(arduino mega)==> Data received by computer==> Combining data(received from motor encoders as well as initial data & orientation)==> Building exact orientation
