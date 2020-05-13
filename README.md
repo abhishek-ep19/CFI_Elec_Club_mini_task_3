@@ -36,8 +36,8 @@ This is not a part of problem but to make hexapod walk practically we can take t
 <br />
 &nbsp;
 
-### 3. MicroMouse Maze - TechSoc Challenge
-
+### Project 3. MicroMouse Maze - TechSoc Challenge
+The idea is to include braking system so that if we increase speed
 
 
 
