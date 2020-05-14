@@ -37,36 +37,6 @@ This is not a part of problem but to make hexapod walk practically we can take t
 &nbsp;
 
 ### Project 3. MicroMouse Maze - TechSoc Challenge
-The idea is to include braking system so that if we increase speed
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+The idea is to include braking system so that if we increase speed. It will consist a mechanical lever in the vertical direction so that to make it stop accurately. This lever can be made with the help of a servo motor and make it pull down when the tyres stop rotating after receiving the signal. This could be of huge advantage in gaining speeds for the motor. This motor's lever at the end would be fixed by a very rough surface proving high friction force but also it will be pulled upside once it has been stopped to a point where it is required to.
+<br />Also this will be at a little disadvantage of cost of one more servo motor but using this kind of technique could be useful in a competition or race.
+<br />This project been made has used best parts considering feasibility and cost, etc. which makes it difficult for anyone to find or point out mistakes.
